@@ -8,6 +8,11 @@
 \f0\fs24 \cf0 \
 ### Instrucciones:\
 \
+### Autores: Marlon Valdez
+Micaela Arelys de la Cadena Velasquez
+Diego Fernando Sanchez
+\
+\
 - **`npm install`**: Este comando instala todas las dependencias del proyecto definidas en el archivo `package.json`.\
 - **`npm run dev`**: Levanta el servidor de desarrollo para ver la aplicaci\'f3n en tu navegador.\
 - **`npm run build`**\
