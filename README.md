@@ -8,9 +8,7 @@
 \f0\fs24 \cf0 \
 ### Instrucciones:\
 \
-### Autores: Marlon Valdez
-Micaela Arelys de la Cadena Velasquez
-Diego Fernando Sanchez
+### Autores: Marlon Valdez, Micaela Arelys de la Cadena Velasquez, Diego Fernando Sanchez
 \
 \
 - **`npm install`**: Este comando instala todas las dependencias del proyecto definidas en el archivo `package.json`.\
